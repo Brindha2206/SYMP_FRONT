@@ -1,0 +1,51 @@
+html{
+    min-height: 100%;
+}
+body{
+    background-image:url(../src/muthayammal-eng-clg-1151.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: wheat;
+    width: 70%;
+    padding: 15px;
+    background-color: black;
+    margin-left: 15%;
+}
+.details{
+    color: wheat;
+    width: 30%;
+    padding: 25px;
+    background-color:rgba(0, 0, 0, 0.55); 
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    border-color: black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30%;
+
+}
+.style label{
+    display: block;
+}
+.y{
+    color: wheat;
+    background-color:rgba(0, 0, 0, 0.55); 
+    width: 70%;
+}
+.events{
+    color: wheat;
+    width: 15%;
+    padding: 15px;
+    background-color:rgba(0, 0, 0, 0.55); 
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px;
+    border-color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
